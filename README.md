@@ -13,7 +13,7 @@ Pick a tabular dataset and make a predictive model with it.
 
 We know this is a short time for a project. But you will be amazed what you can accomplish in a day! 
 
-We're not expecting anything as polished as previous projects. However, the goal is for you to have something to show for your time. At a minimum, do some EDA and have at least one real (non-baseline) model fit and scored. It does not have t oscore well.
+We're not expecting anything as polished as previous projects. However, the goal is for you to have something to show for your time. At a minimum, do some EDA and have at least one real (non-baseline) model fit and scored. It does not have to score well.
 
 Make a baseline model model. Then start with a super simple model for your first real model. Don't be afraid to use a subset of the data for faster iteration when you are working out your modeling process.
 
