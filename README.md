@@ -4,10 +4,9 @@ Pick a tabular dataset and make a predictive model with it.
 
 ## Timeline
 
-- By 11:15am ET, Slack the instructional team your 1-line problem statement and a link to your dataset. We will give you a thumbs up or ask questions/make suggestions.
-- Commit regularly.
-- By 4:15pm ET, make your final push to your GitHub submission repo. 
-- At 4:20pm ET, we'll do 5-minute lightning talks where you'll tell the class what you found. No slides necessary - you can quickly walk us through a Jupyter notebook. 
+- By 10:15am ET, Slack the instructional team your 1-line problem statement and a link to your dataset. We will give you a thumbs up or ask questions/make suggestions.
+- Commit and push regularly.
+- By 4:00pm ET, make your final push to your GitHub submission repo. We'll do 5-minute lightning talks where you'll tell the class what you found. No slides necessary - you can quickly walk us through a Jupyter notebook. 
 
 ## Guidelines
 
@@ -17,11 +16,11 @@ We're not expecting anything as polished as previous projects. However, the goal
 
 Make a baseline model model. Then start with a super simple model for your first real model. Don't be afraid to use a subset of the data for faster iteration when you are working out your modeling process.
 
-If you have a large data file, keep it out of GitHub by using your _.gitignore_ file.
+If you have a large data file, keep it out of GitHub by using your _.gitignore_ file. ⚠️
 
 ## Datasets 
 
-You can pick any dataset you're interested in. We suggest not picking a dataset that will take several hours to clean. Picking multiple datasets to merge is not advised unless you are comfortable that this will go smoothly. Do not use your capstone or group project dataset.
+You can pick any dataset you're interested in. We suggest not picking a dataset that will take several hours to clean. Picking multiple datasets to merge is not advised unless you are comfortable that this will go smoothly. Do not use your capstone or group project datasets.
 
 You may not use the same dataset as someone else, so first come, first served.
 
