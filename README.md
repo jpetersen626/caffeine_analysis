@@ -34,4 +34,11 @@ There are many curated collections of interesting datasets online. Here are a fe
 
 Reminder: do not duplicate someone else's work and give credit where credit is due.
 
+## Rubric
+
+- [ ] Perform basic EDA (examples: report summary statistics, use visuals to explore your dataset)
+- [ ] If necessary, perform basic data cleaning (examples: handle null values, clean data entry errors)
+- [ ] Make a baseline model
+- [ ] Fit and evaluate at least one model
+
 ## Have fun! 🎉
