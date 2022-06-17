@@ -1,6 +1,5 @@
 # Hackathon Project 🚀
 
----
 
 ## Problem Statement
 
